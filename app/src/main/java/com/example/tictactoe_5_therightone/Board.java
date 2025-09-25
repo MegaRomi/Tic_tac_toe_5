@@ -109,4 +109,7 @@ public class Board extends View
     {
         return arr;
     }
+
+    public void setNewValOnBord(int row, int col) {
+    }
 }
